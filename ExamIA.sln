@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExamIA", "ExamIA\ExamIA.csproj", "{E8702000-EDF0-4F7F-8FDE-F17AC17BB51E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExamIA.BL", "ExamIA.BL\ExamIA.BL.csproj", "{208A8ECB-8A9B-44C1-AEE9-2973B7D19DD9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8702000-EDF0-4F7F-8FDE-F17AC17BB51E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8702000-EDF0-4F7F-8FDE-F17AC17BB51E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8702000-EDF0-4F7F-8FDE-F17AC17BB51E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8702000-EDF0-4F7F-8FDE-F17AC17BB51E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{208A8ECB-8A9B-44C1-AEE9-2973B7D19DD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{208A8ECB-8A9B-44C1-AEE9-2973B7D19DD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{208A8ECB-8A9B-44C1-AEE9-2973B7D19DD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{208A8ECB-8A9B-44C1-AEE9-2973B7D19DD9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DDE91678-0D16-40CB-8622-6F13B9A853F2}
+	EndGlobalSection
+EndGlobal

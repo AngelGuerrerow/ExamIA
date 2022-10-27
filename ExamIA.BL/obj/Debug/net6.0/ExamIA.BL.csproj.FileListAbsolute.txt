@@ -1,0 +1,14 @@
+C:\Users\Angel Guerrero\source\repos\ExamIA\ExamIA.BL\bin\Debug\net6.0\ExamIA.BL.deps.json
+C:\Users\Angel Guerrero\source\repos\ExamIA\ExamIA.BL\bin\Debug\net6.0\ExamIA.BL.dll
+C:\Users\Angel Guerrero\source\repos\ExamIA\ExamIA.BL\bin\Debug\net6.0\ExamIA.BL.pdb
+C:\Users\Angel Guerrero\source\repos\ExamIA\ExamIA.BL\obj\Debug\net6.0\ExamIA.BL.csproj.AssemblyReference.cache
+C:\Users\Angel Guerrero\source\repos\ExamIA\ExamIA.BL\obj\Debug\net6.0\ExamIA.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angel Guerrero\source\repos\ExamIA\ExamIA.BL\obj\Debug\net6.0\ExamIA.BL.AssemblyInfoInputs.cache
+C:\Users\Angel Guerrero\source\repos\ExamIA\ExamIA.BL\obj\Debug\net6.0\ExamIA.BL.AssemblyInfo.cs
+C:\Users\Angel Guerrero\source\repos\ExamIA\ExamIA.BL\obj\Debug\net6.0\ExamIA.BL.csproj.CoreCompileInputs.cache
+C:\Users\Angel Guerrero\source\repos\ExamIA\ExamIA.BL\obj\Debug\net6.0\ExamIA.BL.dll
+C:\Users\Angel Guerrero\source\repos\ExamIA\ExamIA.BL\obj\Debug\net6.0\refint\ExamIA.BL.dll
+C:\Users\Angel Guerrero\source\repos\ExamIA\ExamIA.BL\obj\Debug\net6.0\ExamIA.BL.pdb
+C:\Users\Angel Guerrero\source\repos\ExamIA\ExamIA.BL\obj\Debug\net6.0\ref\ExamIA.BL.dll
+C:\Users\Angel Guerrero\source\repos\ExamIA\ExamIA.BL\bin\Debug\net6.0\ExamIA.BL.runtimeconfig.json
+C:\Users\Angel Guerrero\source\repos\ExamIA\ExamIA.BL\obj\Debug\net6.0\ExamIA.BL.genruntimeconfig.cache
